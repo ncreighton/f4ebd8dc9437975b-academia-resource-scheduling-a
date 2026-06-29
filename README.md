@@ -1,0 +1,2 @@
+# f4ebd8dc9437975b-academia-resource-scheduling-a
+You shouldn't need a week of setup before your system is usable to have a complete productivity system running today.  Pre-built databases, views, and formula fields — ready to duplicate and use. Fully documented: every section explained so you know exactly what to customize.  ## What's Included  - Academia Resource Scheduling And Booking — fully c
